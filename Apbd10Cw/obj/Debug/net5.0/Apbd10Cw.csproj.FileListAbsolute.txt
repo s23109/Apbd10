@@ -37,3 +37,5 @@ D:\Programowanie\Cs + .Net\q\Apbd10\Apbd10Cw\obj\Debug\net5.0\Apbd10Cw.pdb
 D:\Programowanie\Cs + .Net\q\Apbd10\Apbd10Cw\obj\Debug\net5.0\Apbd10Cw.genruntimeconfig.cache
 D:\Programowanie\Cs + .Net\q\Apbd10\Apbd10Cw\obj\Debug\net5.0\ref\Apbd10Cw.dll
 D:\Programowanie\Cs + .Net\q\Apbd10\Apbd10Cw\obj\Debug\net5.0\Apbd10Cw.csproj.CopyComplete
+D:\Programowanie\Cs + .Net\q\Apbd10\Apbd10Cw\obj\Debug\net5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
+D:\Programowanie\Cs + .Net\q\Apbd10\Apbd10Cw\obj\Debug\net5.0\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
