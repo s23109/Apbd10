@@ -4,14 +4,16 @@ using Apbd10Cw.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace Apbd10Cw.Migrations
 {
     [DbContext(typeof(Apbd10CwContext))]
-    partial class Apbd10CwContextModelSnapshot : ModelSnapshot
+    [Migration("20220605220525_Rating")]
+    partial class Rating
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
